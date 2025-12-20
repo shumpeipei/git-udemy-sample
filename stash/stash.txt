@@ -1,1 +1,2 @@
 practiceのstashです
+リモート側で修正
